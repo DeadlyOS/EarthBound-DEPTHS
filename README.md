@@ -1,2 +1,2 @@
-# [Earthbound: DEPTHS](http://liblphicer.github.io/earthbound)
+![](https://github.com/liblphicer/EarthBound-DEPTHS/raw/master/logo.png)
 And adult oriented psycological ROM hack.
